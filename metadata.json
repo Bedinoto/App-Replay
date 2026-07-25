@@ -1,0 +1,6 @@
+{
+  "name": "Quadra Replay",
+  "description": "Aplicativo para quadra de esporte que grava os últimos 35 segundos com botão de salvamento automático na galeria e compartilhamento rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
